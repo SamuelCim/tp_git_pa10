@@ -1,4 +1,4 @@
-# TP GIT PA10
+﻿# TP GIT PA10
 
 
 - Mathieu TUDISCO,
@@ -9,7 +9,11 @@
 - Solal LUSSEYRAN,
 - Adrien FRIGERIO,
 - Cyril BIDARIYN,
-- Samuel CIMETIERE.
+- Corentin ÉGELÉ,
+- Yann STEPHAN,
+- Antoine ALBIN,
+- Samuel CIMETIERE,
+
 
 
 
