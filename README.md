@@ -1,6 +1,5 @@
 ﻿# TP GIT PA10
 
-
 - Mathieu TUDISCO,
 - Flore de LASTEYRIE,
 - Antoine NICOLAS,
@@ -12,8 +11,7 @@
 - Corentin ÉGELÉ,
 - Yann STEPHAN,
 - Antoine ALBIN,
+- Adrien LEMAISTRE,
 - Samuel CIMETIERE,
-
-
 
 
