@@ -1,4 +1,4 @@
-﻿# TP GIT PA10
+# TP GIT PA10
 
 - Mathieu TUDISCO,
 - Flore de LASTEYRIE,
@@ -12,3 +12,7 @@
 - Yann STEPHAN,
 - Antoine ALBIN,
 - Adrien LEMAISTRE,
+- Roman CHANDLER-FRY,
+
+
+
