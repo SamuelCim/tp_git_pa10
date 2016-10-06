@@ -7,6 +7,7 @@
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
 - Solal LUSSEYRAN,
+- Adrien FRIGERIO,
 - Samuel CIMETIERE.
 
 
