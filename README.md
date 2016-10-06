@@ -5,6 +5,6 @@
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
-- Solal LUSSEYRAN
+- Solal LUSSEYRAN,
 - Roman CHANDLER-FRY.
 
