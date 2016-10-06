@@ -1,5 +1,6 @@
 ﻿# TP GIT PA10
 
+
 - Mathieu TUDISCO,
 - Flore de LASTEYRIE,
 - Antoine NICOLAS,
@@ -12,6 +13,11 @@
 - Yann STEPHAN,
 - Antoine ALBIN,
 - Adrien LEMAISTRE,
+<<<<<<< HEAD
 - Samuel CIMETIERE,
+=======
+- Roman CHANDLER-FRY,
+
+>>>>>>> refs/remotes/am-pa10/master
 
 
