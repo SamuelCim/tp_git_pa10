@@ -12,5 +12,5 @@
 - Corentin ÉGELÉ,
 - Yann STEPHAN,
 - Antoine ALBIN,
-
+- Adrien LEMAISTRE,
 
